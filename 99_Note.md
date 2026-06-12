@@ -1,5 +1,18 @@
 AI 不要偏離軌道
 
+### # 開發鐵律
+
+完成任何獨立功能後：
+
+1. 更新 CURRENT_STATUS.md
+2. 更新 CHANGELOG.md
+3. git add .
+4. git commit
+5. git push
+
+禁止累積超過 3 個功能未提交
+
+
 
 ### 如果目標是真正的 24 小時 AI 投資研究平台
 
@@ -457,11 +470,3 @@ PROJECT_MASTER.mdROADMAP.mdARCHITECTURE.md歷史報告歷史回測市場資料Yo
 > 過去三年 AI 類股勝率最高的是什麼？
 
 AI 就能查自己的資料庫回答。
-
-
-
-
-
-
-
-
