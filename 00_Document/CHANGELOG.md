@@ -9,3 +9,15 @@
 修改
 
 - Top100改成類股Top10
+
+2026-06-14
+
+新增：
+
+- stock_master驗證完成
+- scripts資料夾路徑驗證完成
+
+確認：
+
+- database/stock.db正常
+- TW/US核心股票可正常查詢
