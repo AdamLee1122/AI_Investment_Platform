@@ -21,3 +21,11 @@
 
 - database/stock.db正常
 - TW/US核心股票可正常查詢
+
+
+
+2026-06-16
+
+V4 
+[V] V4-2A update_market_list.py
+[V] V4-2B 匯入 1981 台股

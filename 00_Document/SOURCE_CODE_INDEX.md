@@ -4,7 +4,15 @@
 2026-06-13
 
 版本：
-V4
+V4V4-2A
+update_market_list.py
+↓
+更新市場股票清單
+
+V4-2B
+import_tw_stock.py
+↓
+同步匯入 stock_master
 
 ---
 

@@ -309,3 +309,15 @@ US = 11
 
 下一步：
 V4-2 台股1980+匯入
+
+**<mark>2026-06-16</mark>**
+[V] V4-1 stock_master
+[V] V4-2A update_market_list.py
+[V] V4-2B 匯入 1981 台股
+
+目前 stock_master
+
+TW = 1981
+US = 11
+
+Total = 1992
