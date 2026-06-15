@@ -291,6 +291,14 @@ V4
 
 - Top10 Sector Ranking
 - Macro Risk Score
+  
+  完成：
+  - create_stock_master.py
+  - seed_stock_master.py
+  - update_market_list.py
+  - import_tw_stock.py
+  - update_us_stock_list.py
+  - import_us_stock.py
 
 V5
 

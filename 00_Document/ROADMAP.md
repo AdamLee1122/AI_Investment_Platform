@@ -24,7 +24,63 @@
 [ ] 類股 Top10 完成
 [ ] 永久保留池完成
 [ ] 總經風險指標完成
-[ ] 每日 Telegram 推播完成
+[ ] 每日 Telegram 推播完成## V4-1 建立 stock_master
+
+狀態：完成 ✅
+
+內容：
+
+- 建立 stock_master 主檔
+- 統一股票主資料來源
+- 支援台股與美股
+- 建立 market 欄位
+- 建立 sector 欄位
+- 建立 keep_flag 欄位
+
+---
+
+## V4-2 台股匯入
+
+狀態：完成 ✅
+
+內容：
+
+- 建立 update_market_list.py
+- 自動下載上市股票
+- 自動下載上櫃股票
+- 產生 market_stock_list.csv
+- 建立 import_tw_stock.py
+- 匯入 stock_master
+
+成果：
+
+TW 股票數：
+
+1981 檔
+
+---
+
+## V4-3 美股匯入
+
+狀態：完成 ✅
+
+內容：
+
+- 建立 update_us_stock_list.py
+- 自動下載 NASDAQ
+- 自動下載 NYSE
+- 自動下載 AMEX
+- 建立 us_stock_list.csv
+- 建立 import_us_stock.py
+- 匯入 stock_master
+
+成果：
+
+US 股票數：
+
+12820 檔
+
+---
 
 ---
 
@@ -78,3 +134,18 @@ AI研究
 Telegram / Email / PPT
 ↓
 個人版 AI Research Terminal
+
+## V4-1 建立 stock_master
+
+狀態：完成 ✅
+
+內容：
+
+- 建立 stock_master 主檔
+- 統一股票主資料來源
+- 支援台股與美股
+- 建立 market 欄位
+- 建立 sector 欄位
+- 建立 keep_flag 欄位
+
+---

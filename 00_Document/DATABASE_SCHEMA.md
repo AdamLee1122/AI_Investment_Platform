@@ -150,7 +150,14 @@ V4
 
 sector_master
 
-macro_risk
+macro_risk## Database
+
+完成：
+
+- stock_master
+- keep_pool
+- watchlist
+- sector
 
 ---
 
@@ -181,3 +188,5 @@ youtube_transcript
 news_sentiment
 
 strategy_history
+
+
